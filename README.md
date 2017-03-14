@@ -1,6 +1,6 @@
 Copyright 2015 - The CyanogenMod Project
 
-Device configuration for Alcatel ONETOUCH Idol 3 5.5.
+Device configuration for Alcatel ONETOUCH pop3_5.5.
 =====================================
 
 Basic   | Spec Sheet
@@ -20,4 +20,4 @@ Front Camera | 8 MP
 Release Date | March 2015
 
 
-![Alcatel Idol 3 5.5](http://im.ziffdavisinternational.com/pcmag_me/photo/default/alcatel-one-touch-idol-3-2_xp51.jpg "Alcatel Idol 3 5.5")
+![Alcatel pop3 5.5]($/storage/emulated/0/Download/SAULLUXO22R0UaiyaRmVoKBGGmuBHz1nrpz2ONl099VXKtTm5svK.jpg"Alcatel pop3_5.5")
