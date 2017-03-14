@@ -20,4 +20,3 @@ Front Camera | 8 MP
 Release Date | March 2015
 
 
-![Alcatel pop3 5.5]($/storage/emulated/0/Download/SAULLUXO22R0UaiyaRmVoKBGGmuBHz1nrpz2ONl099VXKtTm5svK.jpg"Alcatel pop3_5.5")
