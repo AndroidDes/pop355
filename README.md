@@ -19,4 +19,3 @@ Rear Camera  | 13 MP, 4128 x 3096 pixels, autofocus, LED flash
 Front Camera | 8 MP
 Release Date | March 2015
 
-
