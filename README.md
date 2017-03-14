@@ -19,3 +19,6 @@ Rear Camera  | 13 MP, 4128 x 3096 pixels, autofocus, LED flash
 Front Camera | 8 MP
 Release Date | March 2015
 
+
+
+![Alcatel Idol 3 5.5](2http://www.alcatel-mobile.com/ru/pop3/assets/pop3/img/product/alcatel-onetouch-smartphone-pop-3-5-3g-black-leather-touch-front.png "ALCATEL. POP 3 5.5")
